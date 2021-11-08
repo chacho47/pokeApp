@@ -1,15 +1,15 @@
-import React from 'react'
-import { useParams } from 'react-router-dom';
+// import React from 'react'
+// import { useParams } from 'react-router-dom';
 
-const PokeData = () => {
+// const PokeData = () => {
 
-    const {pokeName} = useParams();
+//     const {pokeName} = useParams();
 
-    return ( 
+//     return ( 
 
-        <h1>{process.env.REACT_APP_URL_API}</h1>
+//         <h1>{process.env.REACT_APP_URL_API}</h1>
 
-     );
-}
+//      );
+// }
  
-export default PokeData;
+// export default PokeData;

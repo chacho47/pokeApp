@@ -1,3 +1,3 @@
-import PokeData from "./PokeData";
+// import PokeData from "./PokeData";
 
-export default PokeData;
+// export default PokeData;
